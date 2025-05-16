@@ -1,7 +1,5 @@
 "use client"
 
-
-import React, { use } from 'react'
 import { useRouter } from 'next/navigation'
 import {toast} from "sonner"
 import { CardContent, CardFooter } from '@/components/ui/card'
